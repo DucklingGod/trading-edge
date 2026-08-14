@@ -7,5 +7,6 @@
 | 3 | sentiment-composite | finance | Composite sentiment score: Fear&Greed 20%, funding 20%, social 15%, news 15%, on-chain 20%, positioning 10%; 7-regime classification (euphoria→capitulation); contrarian extremes | ~19 KB |
 | 4 | portfolio-management | finance | Allocation frameworks (equal/risk parity/Markowitz/Black-Litterman), core-satellite & barbell templates, rebalancing triggers, correlation monitoring, performance attribution, Sharpe/Sortino/drawdown/alpha/beta, tax-loss awareness | ~24 KB |
 | 5 | prediction-markets | finance | Probability estimation (base rate/Fermi/reference class/aggregation), edge identification, Polymarket & Kalshi mechanics, Kelly sizing (fractional + portfolio), 7 bias corrections, cross-platform arbitrage, bet portfolio rules | ~21 KB |
+| 6 | trade-risk-management | finance | Mandatory pre-trade gate: 4 sizing methods, ATR stops + trailing, R:R by strategy, portfolio checks (concentration/correlation/heat/liquidity), drawdown schedule, leverage & liquidation math, agent guardrails + kill switches, 9-step validation gate | ~17 KB |
 
-**Total: 5 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)
+**Total: 6 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)
