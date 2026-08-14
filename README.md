@@ -1,8 +1,8 @@
 # Trading Edge 📈 — Agent Skills for the Complete Trading Stack
 
-A curated suite of **8 Agent Skills** covering the four pillars of disciplined trading — conviction, timing, market mood, and allocation. Built for any [Agent Skills](https://agentskills.io)-compatible tool (Claude Code, Cursor, Codex, Gemini CLI, Hermes, OpenClaw, and 30+).
+A curated suite of **13 Agent Skills** covering the four pillars of disciplined trading — conviction, timing, market mood, and allocation. Built for any [Agent Skills](https://agentskills.io)-compatible tool (Claude Code, Cursor, Codex, Gemini CLI, Hermes, OpenClaw, and 30+).
 
-[![Skills: 8](https://img.shields.io/badge/Skills-8-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Skills: 13](https://img.shields.io/badge/Skills-13-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 *Sibling repo of [insight-heist](https://github.com/DucklingGod/insight-heist) (data analysis). These two repos split cleanly: insight-heist turns raw data into findings; trading-edge turns findings into decisions.*
 
@@ -17,7 +17,12 @@ A curated suite of **8 Agent Skills** covering the four pillars of disciplined t
 | `prediction-markets` | 🎲 Events | What are the real odds — and where is the market wrong? (probability, edge, Kelly sizing, biases, arbitrage) |
 | `trade-risk-management` | 🛡️ Gatekeeper | Is this trade safe? (mandatory pre-trade gate: sizing, stops, R:R, portfolio risk, drawdown, leverage, agent guardrails) |
 | `on-chain-analysis` | 🔗 On-chain | What are wallets really doing? (whales, exchange flows, smart money, protocol health, token distribution, unlock risk) |
-| `options-strategies` | 🎫 Options | Express any view with options (decision tree, greeks, IV rank, spreads/condors, earnings plays, management) |
+| `options-strategies` | 🎫 Options | Express any view with options (decision tree, greeks, IV rank, spreads/condors, earnings plays, management) || `options-strategies` | 🎫 Options | Express any view with options (decision tree, greeks, IV rank, spreads/condors, earnings plays, management) |
+| `ichimoku-analysis` | 🍃 Ichimoku | Complete cloud system (Tenkan/Kijun/Senkou/Chikou, TK cross, Kumo twist, cloud regime) + scanner |
+| `volume-profile` | 📊 Auction | VPVR, POC, HVN/LVN, value area, delta, cumulative delta — where the real volume is |
+| `harmonic-patterns` | 🦋 Geometry | Gartley/Bat/Butterfly/Crab/AB=CD with Fibonacci validation, PRZ entries, invalidation + scanner |
+| `elliott-wave` | 🌊 Waves | Impulse/correction counting, 3 hard rules, Fibonacci wave relationships, count scoring + scanner |
+| `wyckoff-smc` | 🕵️ Structure | Wyckoff phases (spring/upthrust/SOS) + Smart Money Concepts (BOS/CHoCH, order blocks, FVG) + scanner |
 
 ## The Stack
 

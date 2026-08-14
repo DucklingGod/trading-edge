@@ -11,4 +11,10 @@
 | 7 | on-chain-analysis | finance | Whale tracking (z-score thresholds), exchange flow analysis, smart money scoring/ranking, protocol health scorecard (TVL/fees/DAU/dev/velocity), holder concentration & unlocks, noise filtering, on-chain signal dashboard | ~23 KB |
 | 8 | options-strategies | finance | Strategy decision tree (direction × IV rank × risk), 15+ strategy specs with max P/L, greeks framework + portfolio table, IV rank/percentile/skew/term structure, strike & DTE selection, rolling/adjustment rules, earnings plays (IV expansion/crush, expected move), assignment/pin/liquidity risk | ~23 KB |
 
-**Total: 8 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)
+| 9 | ichimoku-analysis | finance | Tenkan/Kijun/Senkou A&B/Chikou computation, cloud regime + thickness, TK cross strength, Kumo twist, Chikou confirmation; scanner script with cloud chart | ~15 KB |
+| 10 | volume-profile | finance | Volume Profile (VPVR), Point of Control, HVN/LVN, value area (70%/1σ), VAH/VAL, delta & cumulative delta, footprint basics, balance/imbalance; scanner with histogram chart | ~16 KB |
+| 11 | harmonic-patterns | finance | XABCD swing detection, Gartley/Bat/Butterfly/Crab/AB=CD ratio tables with tolerance, PRZ confluence, D-point entry/stop/target, invalidation; scanner script | ~9 KB |
+| 12 | elliott-wave | finance | Impulse vs correction, 3 hard rules, Fibonacci wave relationships, count scoring vs alternate, wave-2/4 trade setups, invalidation at rule breaks; scanner script | ~9 KB |
+| 13 | wyckoff-smc | finance | Wyckoff accumulation/distribution phases A-E, spring/upthrust, SOS/SOW + SMC: HH/HL structure, BOS/CHoCH, order blocks, FVG, liquidity sweeps; scanner script | ~21 KB |
+
+**Total: 13 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)
