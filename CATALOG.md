@@ -8,5 +8,6 @@
 | 4 | portfolio-management | finance | Allocation frameworks (equal/risk parity/Markowitz/Black-Litterman), core-satellite & barbell templates, rebalancing triggers, correlation monitoring, performance attribution, Sharpe/Sortino/drawdown/alpha/beta, tax-loss awareness | ~24 KB |
 | 5 | prediction-markets | finance | Probability estimation (base rate/Fermi/reference class/aggregation), edge identification, Polymarket & Kalshi mechanics, Kelly sizing (fractional + portfolio), 7 bias corrections, cross-platform arbitrage, bet portfolio rules | ~21 KB |
 | 6 | trade-risk-management | finance | Mandatory pre-trade gate: 4 sizing methods, ATR stops + trailing, R:R by strategy, portfolio checks (concentration/correlation/heat/liquidity), drawdown schedule, leverage & liquidation math, agent guardrails + kill switches, 9-step validation gate | ~17 KB |
+| 7 | on-chain-analysis | finance | Whale tracking (z-score thresholds), exchange flow analysis, smart money scoring/ranking, protocol health scorecard (TVL/fees/DAU/dev/velocity), holder concentration & unlocks, noise filtering, on-chain signal dashboard | ~23 KB |
 
-**Total: 6 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)
+**Total: 7 skills** · MIT License · No API keys required (data sources optional via MCP/CLI)

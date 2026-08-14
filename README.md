@@ -1,8 +1,8 @@
 # Trading Edge 📈 — Agent Skills for the Complete Trading Stack
 
-A curated suite of **6 Agent Skills** covering the four pillars of disciplined trading — conviction, timing, market mood, and allocation. Built for any [Agent Skills](https://agentskills.io)-compatible tool (Claude Code, Cursor, Codex, Gemini CLI, Hermes, OpenClaw, and 30+).
+A curated suite of **7 Agent Skills** covering the four pillars of disciplined trading — conviction, timing, market mood, and allocation. Built for any [Agent Skills](https://agentskills.io)-compatible tool (Claude Code, Cursor, Codex, Gemini CLI, Hermes, OpenClaw, and 30+).
 
-[![Skills: 6](https://img.shields.io/badge/Skills-6-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![Skills: 7](https://img.shields.io/badge/Skills-7-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 *Sibling repo of [insight-heist](https://github.com/DucklingGod/insight-heist) (data analysis). These two repos split cleanly: insight-heist turns raw data into findings; trading-edge turns findings into decisions.*
 
@@ -16,6 +16,7 @@ A curated suite of **6 Agent Skills** covering the four pillars of disciplined t
 | `portfolio-management` | 🏗️ Allocation | How do I size and balance the whole book? (frameworks, rebalancing, attribution, risk metrics) |
 | `prediction-markets` | 🎲 Events | What are the real odds — and where is the market wrong? (probability, edge, Kelly sizing, biases, arbitrage) |
 | `trade-risk-management` | 🛡️ Gatekeeper | Is this trade safe? (mandatory pre-trade gate: sizing, stops, R:R, portfolio risk, drawdown, leverage, agent guardrails) |
+| `on-chain-analysis` | 🔗 On-chain | What are wallets really doing? (whales, exchange flows, smart money, protocol health, token distribution, unlock risk) |
 
 ## The Stack
 
